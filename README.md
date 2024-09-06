@@ -1,5 +1,5 @@
 # 2. Domača naloga Gauss-Legendrove kvadrature
-Elian Mugerli
+Elian Mugerli, 6.9.2024
 
 Naloga zahteva izpeljavo Gauss-Legendreovega integracijskega pravila na dveh točkah:
 
